@@ -5,6 +5,7 @@ namespace PracticeOOP
 {
     class Program
     {
+        //commit
         static void Main(string[] args)
         {
             Bank<Account> bank = new Bank<Account>("Sberbank");
